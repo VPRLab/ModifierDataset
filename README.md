@@ -20,6 +20,6 @@ Paper link and bib reference: link
 - Fetch contract source code via [EtherScan](https://etherscan.io) API.
 - Note that we have confirmed that all the contract source code is publicly available on `etherscan.io`
 
-### How to obtain vulnerable contracts?
+## How to obtain vulnerable contracts?
 
 For ethics considerations, we would not disclose the details of the vulnerabilities as we declared in the paper. However, to facilitate the comparison with `SoMo`, we make the vulnerable contract list **on request**. Please send an email to the corresponding author for the request.
