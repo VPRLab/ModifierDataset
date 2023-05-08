@@ -22,4 +22,4 @@ Paper link and bib reference: link
 
 ## How to obtain vulnerable contracts?
 
-For ethics considerations, we would not disclose the details of the vulnerabilities as we declared in the paper. However, to facilitate the comparison with `SoMo`, we make the vulnerable contract list **on request**. Please send an email to the corresponding author for the request.
+For ethics considerations, we would not disclose the details of the vulnerabilities as we declared in the paper. However, to facilitate the comparison with `SoMo`, we make the vulnerable contract list **on request**. Please send an email to the first and corresponding authors for the request.
