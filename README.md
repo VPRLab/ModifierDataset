@@ -1,3 +1,7 @@
+## SoMo Code
+
+SoMo code is now available at [VPRLab/SoMo](https://github.com/VPRLab/SoMo).
+
 # ModifierDataset
 The dataset of 62,464 smart contracts with modifiers used in our ISSTA'23 paper
 
@@ -23,8 +27,4 @@ Paper [link](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf) and bib refere
 ## How to obtain vulnerable contracts?
 
 For ethics considerations, we would not disclose the details of the vulnerabilities as we declared in the paper. However, to facilitate the comparison with `SoMo`, we make the vulnerable contract list **on request**. Please send an email to the first and corresponding authors for the request.
-
-## SoMo Code
-
-SoMo code is now available at [VPRLab/SoMo](https://github.com/VPRLab/SoMo).
 
